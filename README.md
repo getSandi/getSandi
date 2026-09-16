@@ -21,9 +21,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior QA Engineer** interested in software quality, test automation, API testing, and structured QA documentation.
+I'm a **Junior QA Engineer** with a strong interest in software quality, software testing, and test automation. I enjoy analyzing applications, identifying potential issues, and ensuring that features work as expected. My experience includes **Manual Testing, Functional Testing, Regression Testing, API Testing, and Web Automation Testing**.
 
-🔎 Focused on finding defects, improving test coverage, and building reliable testing processes.
+I have experience creating QA documentation such as **Test Plans, Test Cases, and Bug Reports**. I also work with **Postman, Cypress, JavaScript, SQL, Jira, Git, and GitHub**, and continuously improve my skills by building practical QA projects and exploring automation testing.
+
 
 ---
 
@@ -32,7 +33,7 @@ I'm a **Junior QA Engineer** interested in software quality, test automation, AP
 | Category         | Tools / Skills                                             |
 | ---------------- | ---------------------------------------------------------- |
 | 🧪 Testing       | Manual Testing, Functional, Regression, Smoke, Exploratory |
-| 🤖 Automation    | Cypress, JavaScript                                        |
+| 🤖 Automation    | Cypress, Playwright, Cucumber                                        |
 | 🔌 API           | Postman, REST API, HTTP Methods                            |
 | 📋 Documentation | Test Plan, Test Case, Bug Report, Test Summary             |
 | 🗄️ Database     | SQL, Data Validation                                       |
