@@ -57,13 +57,13 @@ I have experience creating QA documentation such as **Test Plans, Test Cases, an
 
 ## 📚 Currently Learning
 
-**Cypress • Playwright • Cucumber • API Testing • • POM • CI/CD**
+**Cypress • Playwright • Cucumber • API Testing • POM • CI/CD**
 
 ---
 
 ## 🎓 Certifications & Bootcamps
 
-* Quality Assurance Bootcamp — Kuasai Cara Pengujian Software (Batch 80)
+* Sanbercode Quality Assurance Bootcamp — Kuasai Cara Pengujian Software (Batch 80)
 * Nusacodes Bootcamp — QA Engineer
 
 ---
