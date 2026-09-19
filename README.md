@@ -35,7 +35,7 @@ I have experience creating QA documentation such as **Test Plans, Test Cases, an
 
 | Category         | Tools / Skills                                             |
 | ---------------- | ---------------------------------------------------------- |
-| 🧪 Testing       | Manual Testing, Functional, Regression, Smoke, Exploratory |
+| 🧪 Testing       | Manual Testing, Functional, Smoke, Exploratory, Regression |
 | 🤖 Automation    | Cypress, Playwright, Cucumber                                        |
 | 🔌 API           | Postman, REST API, HTTP Methods                            |
 | 📋 Documentation | Test Plan, Test Case, Bug Report          |
@@ -48,8 +48,8 @@ I have experience creating QA documentation such as **Test Plans, Test Cases, an
 
 | Project                 | Type           | Tools                             | Link                                                           |
 | ----------------------- | -------------- | --------------------------------- | -------------------------------------------------------------- |
-| 🧪 SauceDemo QA         | Manual Testing | Test Case, Bug Report | [View](https://github.com/getSandi/qa-portofolio)              |
-| 🤖 SauceDemo Automation | Automation     | Cypress, Playwright            | [View](https://github.com/getSandi/Myskill-cypress-automation) |
+| 🧪 SauceDemo          | Manual Testing | Test Case, Bug Report | [View](https://github.com/getSandi/qa-portofolio)              |
+| 🤖 SauceDemo Automation | Automation     | Cypress, Playwright            | [View](https://github.com/getSandi) |
 | 🔌 API Testing          | API Testing    | HTTP Method, REST API                 | [View](https://github.com/getSandi)                            |
 | 🍊 OrangeHRM            | Manual Testing | Test Case, Bug Report     | [View](https://github.com/getSandi/qa-portofolio)              |
 
@@ -63,8 +63,7 @@ I have experience creating QA documentation such as **Test Plans, Test Cases, an
 
 ## 🎓 Certifications & Bootcamps
 
-* Sanbercode Quality Assurance Bootcamp — Kuasai Cara Pengujian Software (Batch 80)
-* Nusacodes Bootcamp — QA Engineer
+...
 
 ---
 
