@@ -17,7 +17,7 @@
   </a>
   <a href="https://qa-web-plum.vercel.app">
     <img src="https://img.shields.io/badge/Website-Visit-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" />
- <!-- </a>-->
+ </a>
 </p>
 
 ---
@@ -59,11 +59,13 @@ I have experience creating QA documentation such as **Test Plans, Test Cases, an
 
 **Cypress • Playwright • Cucumber • API Testing • POM • CI/CD**
 
----
+<a href="https://sanbercode.com/certificate/in/68cb41ec-da71-40a8-bde5-6b8e882303d0">
 
 ## 🎓 Certifications & Bootcamps
 
-...
+<a href="https://sanbercode.com/certificate/in/68cb41ec-da71-40a8-bde5-6b8e882303d0">
+Quality Assurance Bootcamp SanberCode, Batch 80 | 2026⁠
+</a>
 
 ---
 
