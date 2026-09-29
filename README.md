@@ -48,10 +48,12 @@ I have experience creating QA documentation such as **Test Plans, Test Cases, an
 
 | Project                 | Type           | Tools                             | Link                                                           |
 | ----------------------- | -------------- | --------------------------------- | -------------------------------------------------------------- |
-| 🧪 SauceDemo          | Manual Testing | Test Case, Bug Report | [View](https://github.com/getSandi/qa-portofolio)              |
-| 🤖 SauceDemo Automation | Automation     | Cypress, Playwright            | [View](https://github.com/getSandi) |
-| 🔌 API Testing          | API Testing    | HTTP Method, REST API                 | [View](https://github.com/getSandi)                            |
-| 🍊 OrangeHRM            | Manual Testing | Test Case, Bug Report     | [View](https://github.com/getSandi/qa-portofolio)              |
+| 🤖 SauceDemo Manual         | Manual Testing | Test Case, Bug Report | [View](https://github.com/getSandi/qa-portofolio)              |
+| 🤖 SauceDemo Automation | Automation Testing    |  Playwright            | [View](https://github.com/getSandi) |
+| 🍊 OrangeHRM Manual             | Manual Testing | Test Case, Bug Report     | [View](https://github.com/getSandi/qa-portofolio)              |
+| 🍊 OrangeHRM Automation         | Automation Testing | Cypress     | [View](https://github.com/getSandi/sanbercode-orangehrm)              |
+| 🔌 API Testing JsonPlaceHolder         | API Testing    | HTTP Method, REST API                 | [View](https://github.com/getSandi/api-testing-jsonplaceholder.git)          
+| 🔌 API Testing PlatziFakeStore           | Api Testing | Test Case, Bug Report     | [View](https://github.com/getSandi/sanbercode-api-automation.git)              ||
 
 ---
 
