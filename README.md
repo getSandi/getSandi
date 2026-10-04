@@ -35,31 +35,29 @@ I have experience creating QA documentation such as **Test Plans, Test Cases, an
 
 | Category         | Tools / Skills                                             |
 | ---------------- | ---------------------------------------------------------- |
-| 🧪 Testing       | Manual Testing, Functional, Smoke, Exploratory, Regression |
-| 🤖 Automation    | Cypress, Playwright, Cucumber                                        |
+| 🧪 Testing       | Manual Testing, Automation Testing, Functional, Smoke, Exploratory, Regression |
+| 🤖 Automation    | Cypress, Playwright                                        |
 | 🔌 API           | Postman, REST API, HTTP Methods                            |
 | 📋 Documentation | Test Plan, Test Case, Bug Report          |
 | 🗄️ Database     | SQL, Data Validation                                       |
-| 🔧 Tools         | Git, GitHub, Jira                                          |
+| 🔧 Tools         | Git, GitHub, Jira, Clickup                                          |
 
 ---
 
 ## 🚀 Projects
 
-| Project                 | Type           | Tools                             | Link                                                           |
-| ----------------------- | -------------- | --------------------------------- | -------------------------------------------------------------- |
-| 🤖 SauceDemo Manual         | Manual Testing | Test Case, Bug Report | [View](https://github.com/getSandi/qa-portofolio)              |
-| 🤖 SauceDemo Automation | Automation Testing    |  Playwright            | [View](https://github.com/getSandi) |
-| 🍊 OrangeHRM Manual             | Manual Testing | Test Case, Bug Report     | [View](https://github.com/getSandi/qa-portofolio)              |
-| 🍊 OrangeHRM Automation         | Automation Testing | Cypress     | [View](https://github.com/getSandi/sanbercode-orangehrm)              |
-| 🔌 API Testing JsonPlaceHolder         | API Testing    | HTTP Method, REST API                 | [View](https://github.com/getSandi/api-testing-jsonplaceholder.git)          
-| 🔌 API Testing PlatziFakeStore           | Api Testing | Test Case, Bug Report     | [View](https://github.com/getSandi/sanbercode-api-automation.git)              ||
+| Project | Testing Type | Tools / Technologies | QA Documentation | Repository |
+|---|---|---|---|---|
+| **SauceDemo Testing** | Manual & Automation Testing | Playwright, JavaScript | Test Plan, Test Case, Bug Report, Automation Test | [View Repository](https://github.com/getSandi/nusacodes-testing-saucedemo) |
+| **OrangeHRM Testing** | Manual & Automation Testing | Cypress, JavaScript | Test Case, Bug Report, Automation Test | [View Repository](https://github.com/getSandi/sanbercode-testing-orangehrm) |
+| **JSONPlaceholder API Testing** | API Testing | REST API, HTTP Methods | API Test Case, Request & Response Validation, Status Code Validation, Test Execution | [View Repository](https://github.com/getSandi/api-testing-jsonplaceholder) |
+| **Platzi Fake Store API Testing** | API Testing & Automation | Cypress, REST API, JavaScript | API Test Scenario, API Test Case, Response Validation, Status Code Validation, Bug Report, Automation Test | [View Repository](https://github.com/getSandi/sanbercode-api-automation) |
 
 ---
 
 ## 📚 Currently Learning
 
-**Cypress • Playwright • Cucumber • API Testing • POM • CI/CD**
+**Cypress • Playwright • Katalon • Cucumber • API Testing • CI/CD**
 
 
 ## 🎓 Certifications & Bootcamps
