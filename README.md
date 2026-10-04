@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Muhammad Resandi Sholahuddin</h1>
 
 <p align="center">
-  <b>🧪 Junior QA Engineer</b><br>
+  <b>🧪 Junior Quality Assurance</b><br>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior QA Engineer** with a strong interest in software quality, software testing, and test automation. I enjoy analyzing applications, identifying potential issues, and ensuring that features work as expected. My experience includes **Manual Testing, Functional Testing, Regression Testing, API Testing, and Web Automation Testing**.
+I'm a **Junior Quality Assurance** with a strong interest in software quality, software testing, and test automation. I enjoy analyzing applications, identifying potential issues, and ensuring that features work as expected. My experience includes **Manual Testing, Functional Testing, Regression Testing, API Testing, and Web Automation Testing**.
 
 I have experience creating QA documentation such as **Test Plans, Test Cases, and Bug Reports**. I also work with **Postman, Cypress, Playwright, Cucumber, SQL, Jira, Clickups, Git, and GitHub**, and continuously improve my skills by building practical QA projects and exploring automation testing.
 
