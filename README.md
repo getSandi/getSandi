@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>🧪 Junior QA Engineer</b><br>
-  Manual Testing • API Testing • Automation Testing
 </p>
 
 <p align="center">
