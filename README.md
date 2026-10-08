@@ -51,6 +51,7 @@ I have experience creating QA documentation such as **Test Plans, Test Cases, an
 | **OrangeHRM Testing** | Manual & Automation Testing | Cypress, JavaScript | Test Case, Bug Report, Automation Test | [View Repository](https://github.com/getSandi/sanbercode-testing-orangehrm) |
 | **JSONPlaceholder API Testing** | API Testing | REST API, HTTP Methods | API Test Case, Request & Response Validation, Status Code Validation, Test Execution | [View Repository](https://github.com/getSandi/api-testing-jsonplaceholder) |
 | **Platzi Fake Store API Testing** | API Testing & Automation | Cypress, REST API, JavaScript | API Test Scenario, API Test Case, Response Validation, Status Code Validation, Bug Report, Automation Test | [View Repository](https://github.com/getSandi/sanbercode-api-automation) |
+| **XNote Testing** | Mobile Testing | Android | Test Case, Test Execution, Bug Report | [View Repository](https://github.com/getSandi/nusacodes-mobile-testing) |
 
 ---
 
